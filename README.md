@@ -5,8 +5,8 @@ This repository contains a collection of cybersecurity automation scripts design
 
 ## 📑 Table of Contents  
 - [Email Spoof Checker ✉️](Email-Spoof-Scripts)  
-- [File Integrity Monitor 🔒](file-integrity-monitor/)  
-- [Typosquat Detection 🌐](typosquat-detection/)  
+- [File Integrity Monitor 🔒](File-Integrity-Monitor)  
+- [Typosquat Detection 🌐](Typosquat-Detection)  
 - Conclusion 💼  
 
 ## ✉️ Email Spoof Checker  
