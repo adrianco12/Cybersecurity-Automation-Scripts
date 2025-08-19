@@ -20,5 +20,5 @@ After checking the availability of all typo-squatted domains, the script categor
 If active domains are detected, they are listed, signaling a potential threat.
 If no active domains are found, the user is informed that no immediate risks were detected.
 
-Conclusion
+Conclusion  
 The script provides an automated way to identify potential threats from typo-squatted domains. It combines logical generation techniques with real-time DNS queries to produce actionable insights. By focusing on active domains, it prioritizes potential security risks that warrant further investigation. This approach helps cybersecurity professionals or concerned individuals proactively detect and address threats associated with typo-squatting.
