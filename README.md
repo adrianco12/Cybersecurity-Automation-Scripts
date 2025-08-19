@@ -1,4 +1,4 @@
-# 🛡️ Cybersecurity Automation Scripts  
+# 💻⚙️ Cybersecurity Automation Scripts  
 
 ## 📖 Overview  
 This repository contains a collection of cybersecurity automation scripts designed to reduce manual effort and optimize incident response time. The scripts provide practical solutions for detecting email spoofing, monitoring file integrity, and identifying typosquatted domains that attackers might use for phishing or fraud. I created these scripts using my software development background, and researching the way attacks can happen.
