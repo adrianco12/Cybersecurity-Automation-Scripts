@@ -1,5 +1,5 @@
 # File-Integrity-Monitor
-This project calculates the SHA-256 hash of a file and stores it in a specified location. It then compares the stored hash with the current file hash to detect any changes, ensuring file integrity.
+This project calculates the SHA-256 hash of a file and stores it in a specified location. It then compares the stored hash with the current file hash to detect any changes, ensuring file integrity. This script was coded in C++ using Xcode.
 
 Overview
 The File Integrity Checker project is designed to monitor the integrity of files by calculating their cryptographic hash values and comparing them to a stored value. This process ensures that the file has not been altered, modified, or corrupted. The main way this file works is through the use of a hash function, specifically SHA-256, to generate a unique string of characters (a hash) that represents the contents of the file. Even a small change in the file will result in a completely different hash value, allowing users to detect any unauthorized modifications.
