@@ -29,5 +29,5 @@ If the SPF record is missing or the domain is unreachable, the script flags this
 
 In situations where the script cannot retrieve the SPF record due to a DNS error or other issue, it will also print an error message and alert the user that the SPF record is missing or inaccessible.
 
-Conclusion
+Conclusion  
 In summary, the Email Header Analyzer Python script is a useful tool for detecting potential email spoofing attempts. By parsing key email headers and performing a DNS lookup to validate SPF records, it helps users assess the legitimacy of the sender’s domain. The script also provides clear warnings when suspicious patterns are detected, such as missing or invalid SPF records, and allows the user to manually input headers or load them from a file for analysis. This tool can be a great resource cybersecurity purposes, as phishing is one of the most prevelant cyber crimes to this day.
