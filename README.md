@@ -4,10 +4,10 @@
 This repository contains a collection of cybersecurity automation scripts designed to reduce manual effort and optimize incident response time. The scripts provide practical solutions for detecting email spoofing, monitoring file integrity, and identifying typosquatted domains that attackers might use for phishing or fraud. I created these scripts using my software development background, and researching the way attacks can happen.
 
 ## 📑 Table of Contents  
-- [Email Spoof Checker ✉️](#email-spoof-checker-️)  
-- [File Integrity Monitor 🔒](#file-integrity-monitor-)  
-- [Typosquat Detection 🌐](#typosquat-detection-)  
-- [Conclusion 💼](#conclusion-)  
+- [Email Spoof Checker ✉️](email-spoof-scripts)  
+- [File Integrity Monitor 🔒](file-integrity-monitor)  
+- [Typosquat Detection 🌐](typosquat-detection)  
+- Conclusion 💼  
 
 ## ✉️ Email Spoof Checker  
 This Python script parses email headers and checks for potential indicators of spoofing.  
